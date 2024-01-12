@@ -1,0 +1,22 @@
+1.- Vamos a clonar una pagina ya existente con un titulo y tres alementos que son iguales, podemos considerar que estos tres elementos son un componente en React. https://www.freecodecamp.org/
+2.- El componente repetido es un testimonio.
+	a.- Contenedor principal
+	b.- Imagen situada a la izquierda
+	c.- Texto situado a la derecha, dos parrafos de una linea centrado y un tercer parrafo que va contener una 	descripción justificado.
+3.- Luego vamos a pasar valores personalizados a cada uno de estos apartados y reutilizar nuestro código
+
+4.- Se crea la carpeta "componentes" dentro de la carpete src y creamos fichero Testimonios.js
+5.- Se crea la carpeta "imagenes"
+6.- Se crea la carpeta "hoja-de-estilo"
+
+7.- Borramos el fichero setupTest.js, reportWebVitals.js, App.test.js
+8.- Modifico cosas del fichero index.js, por ejemplo, import reportWebVitals
+
+9.- App.js es el componente principal de nuestra aplicación, borramos todo lo que aparece dentro del componente App, solo dejamos <div className="App">
+10.- Cambio los estilos del fichero App.css
+
+11.- El fichero index.js es donde estamos renderizando nuestro componente en el div con id "root"
+
+12.- Podemos ver el componente inyectado con la opcion inspeccionar de nuestro navegador
+
+13.- Puedo utilizar la herramientas como extensión de chrome React Developer Tools
