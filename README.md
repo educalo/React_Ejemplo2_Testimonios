@@ -33,6 +33,11 @@ La aplicación se abrirá automáticamente en el navegador configurado por defec
 ## Instalar Módulos
 Para instalar los módulos necesarios para la aplicación, debes ejecutar el comando `npm install` en el terminal.
 
+## Cosas nuevas
+
+1.- Definición de componentes a traves de props.
+
+
 ## Retos
 
 1.- Texto en negrita en el centro párrafo de la descripción del testimonio. Como patrón seria donde aparezca la palabra freeCodeCamp y las siguientes palabras.
