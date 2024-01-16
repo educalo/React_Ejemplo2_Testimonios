@@ -36,7 +36,7 @@ Para instalar los módulos necesarios para la aplicación, debes ejecutar el com
 
 ## Cosas nuevas
 
-1.- Definición de componentes a traves de props.
+1.- Definición de componentes con props.
 
 
 ## Retos
